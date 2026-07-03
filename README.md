@@ -19,6 +19,12 @@
 
 ### 📦 Meine Projekte
 
+#### ✍️ [foolscap.nvim](https://github.com/drdewes/foolscap.nvim)
+**Ein ruhiges Schreibwerkzeug für neovim — mit dem Gefühl von Schreibmaschine und WordStar.**
+Ablenkungsfreies Schreiben in Markdown, warmes Bernstein-Licht, Wortziele,
+Grammatikhilfe — und auf einen Tastendruck als **EPUB und PDF**. Auch für Menschen,
+die noch nie mit Vim gearbeitet haben.
+
 #### 🖋️ [word55-on-linux](https://github.com/drdewes/word55-on-linux)
 **Microsoft Word 5.5 für DOS (1991) — wieder lebendig auf modernem Linux.**
 Gestochen scharf, mit deutschen Umlauten und (der knifflige Teil) *zuverlässigem
